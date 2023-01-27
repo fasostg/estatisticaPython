@@ -1,6 +1,6 @@
 # estatisticaPython
 
-## Os arquivos estarão divididos em duas partes: i) Análise Descritiva e ii) Estimativas
+## Nesse repositório tento abordar a parte básica da estatística utilizando Python, Pandas, Matplotlib e Numpy, sendo possível desde já realizar diversos tipos de análises. Os arquivos estarão divididos em duas partes: i) Análise Descritiva e ii) Estimativas
 
 ### Análise Descritiva
 - Distribuição de Frequências
